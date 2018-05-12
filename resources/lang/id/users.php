@@ -160,7 +160,7 @@ return [
                     'title' => 'Riwayat Main',
                 ],
                 'most_played' => [
-                    'count' => 'kali dimainkan',
+                    'count' => 'dimainkan sebanyak',
                     'title' => 'Beatmap yang Paling Banyak Dimainkan',
                 ],
                 'recent_plays' => [
@@ -298,7 +298,7 @@ return [
         'stats' => [
             'hit_accuracy' => 'Akurasi Hit',
             'level' => 'Level :level',
-            'maximum_combo' => 'Combo Maksimum',
+            'maximum_combo' => 'Kombo Maksimum',
             'play_count' => 'Jumlah Main',
             'play_time' => 'Telah Bermain Selama',
             'ranked_score' => 'Skor Ranked',
